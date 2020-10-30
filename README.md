@@ -1,3 +1,3 @@
 # Flappy-Bird-en-JavaScript
 
-Le jeu Flappy Bird développé en JavaScript
+Une copie du jeu Flappy Bird développé en JavaScript
